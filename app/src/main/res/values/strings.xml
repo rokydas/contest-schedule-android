@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">contest-schedule</string>
+    <string name="registration_title">Registration</string>
+    <string name="name_label">Name</string>
+    <string name="email_label">Email</string>
+    <string name="password_label">Password</string>
+    <string name="register_button_label">Sign Up</string>
+    <string name="profile_name_label">Roky Das</string>
+    <string name="profile_email_label">droky136@gmail.com</string>
+    <string name="profile_bio_label">Software Engineer</string>
+    <string name="profile_update_button_label">Update Profile</string>
+    <string name="update_profile_title">Update Profile</string>
+</resources>
